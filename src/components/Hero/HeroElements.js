@@ -15,6 +15,7 @@ export const HeroContent = styled.div`
   padding: 0rem calc((100vw - 1300px) / 2);
 `;
 
+
 export const HeroItems = styled.div`
   display: flex;
   flex-direction: column;
