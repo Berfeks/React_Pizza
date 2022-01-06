@@ -6,7 +6,6 @@ import Products from './components/Products';
 import { productData, productDataTwo} from './components/Products/data';
 import Feature from './components/Feature';
 import Footer from './components/Footer';
-
 // need add menu list
 function App() {
   return (
